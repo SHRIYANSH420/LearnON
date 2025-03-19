@@ -1,0 +1,1 @@
+dynamoDb = java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb -dbPath "E:\\MCA Projects\\MCA LAST YEAR PROJECT\\LearnOn"
